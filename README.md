@@ -24,4 +24,4 @@ Install dependencies:
 ```bash
 pip install PyPDF2 deep-translator pandas openpyxl
 ```
-Run ExtractLegalCont.ipynb in Colab or Jupyter.
+Run `ExtractLegalCont.ipynb` in Colab or Jupyter.
