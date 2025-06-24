@@ -5,7 +5,7 @@ This project extracts structured financial attributes from Albanian-language PDF
 ## Features
 - Classifies PDFs into corporate and personal
 - Extracts loan terms, parties, and monetary values
-- Translates loan purpose to English
+- Translates the loan purpose to English
 - Outputs to clean Excel files
 
 ## Output
@@ -23,3 +23,5 @@ This project extracts structured financial attributes from Albanian-language PDF
 Install dependencies:
 ```bash
 pip install PyPDF2 deep-translator pandas openpyxl
+```
+Run ExtractLegalCont.ipynb in Colab or Jupyter.
